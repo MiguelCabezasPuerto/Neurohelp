@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preguntas">
+        <item>Elija una pregunta...</item>
+        <item>¿Cómo se reproduce un ejercicio?</item>
+        <item>Pregunta A1</item>
+        <item>Pregunta B</item>
+        <item>Pregunta C</item>
+        <item>Pregunta D</item>
+    </string-array>
+</resources>

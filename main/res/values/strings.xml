@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NeuroHelp</string>
+    <string name="navigation_drawer_open">1</string>
+    <string name="navigation_drawer_close">2</string>
+</resources>

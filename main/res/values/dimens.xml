@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="bias_oferta_individual">0.49</dimen>
+    <dimen name="width_individual_formacion">338dp</dimen>
+    <dimen name="fab_margin2">32dp</dimen>
+    <dimen name="margin_top_formacion_individual">30dp</dimen>
+    <dimen name="fab_marginMedio">8dp</dimen>
+    <dimen name="fab_marginCuarto">4dp</dimen>
+    <dimen name="fab_marginOctavo">2dp</dimen>
+    <dimen name="imageView_individual_formacion">80px</dimen>
+    <dimen name="cincodp">5dp</dimen>
+    <dimen name="veintedp">20dp</dimen>
+    <dimen name="cincuentadp">50dp</dimen>
+    <dimen name="fab_marginOctavoMedio">1dp</dimen>
+    <dimen name="setentadp">70dp</dimen>
+    <dimen name="cuatrocientosoncedp">411dp</dimen>
+    <dimen name="cientocincuentadp">150dp</dimen>
+    <dimen name="trescientosdp">300dp</dimen>
+    <dimen name="ciendp">100dp</dimen>
+    <dimen name="veintitresdp">23dp</dimen>
+    <dimen name="veinticuatrodp">24dp</dimen>
+    <dimen name="doscientosdp">200dp</dimen>
+    <dimen name="cientotreintadp">130dp</dimen>
+    <dimen name="setentaycincodp">75dp</dimen>
+    <dimen name="diezdp">10dp</dimen>
+    <dimen name="cincuentaycincodp">55dp</dimen>
+    <dimen name="veinticuatrosp">24sp</dimen>
+    <dimen name="cuarentaycincodp">45dp</dimen>
+    <dimen name="fab_margin4">64dp</dimen>
+    <dimen name="paddingRightLeft">75px</dimen>
+    <dimen name="paddingTop">250px</dimen>
+    <dimen name="dieciochosp">18sp</dimen>
+    <dimen name="padddingTopSmall">150px</dimen>
+    <dimen name="dieciseissp">16sp</dimen>
+    <dimen name="ochentadp">80dp</dimen>
+    <dimen name="cuarentaydosdp">42dp</dimen>
+    <dimen name="veinticincodp">25dp</dimen>
+    <dimen name="noventadp">90dp</dimen>
+</resources>
